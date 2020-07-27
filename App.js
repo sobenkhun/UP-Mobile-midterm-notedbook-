@@ -1,4 +1,3 @@
-  
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -8,7 +7,6 @@
  */
 
 import React, { Component } from 'react';
-// import Login from './src/screen/Login';
 
 import {
   ImageBackground,
