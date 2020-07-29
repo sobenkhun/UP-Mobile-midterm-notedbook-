@@ -22,7 +22,7 @@ import {
 
 const image = { uri: "https://i.ibb.co/crmhTmK/picture-01.png" };
 
-export default class Login extends Component {
+export default class App extends Component {
 
   onClickListener = (viewId) => {
     Alert.alert("Reminding", "Your login is incorrect! Please try again letter.");
